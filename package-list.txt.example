@@ -1,0 +1,12 @@
+# Package List Example
+# Format: package-name<TAB>version
+# Lines starting with # are ignored
+
+react	17.0.1
+react-dom	17.0.1
+lodash	4.17.20
+moment	2.29.1
+antd	4.12.3
+@reduxjs/toolkit	1.5.0
+@types/react	17.0.0
+

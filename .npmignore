@@ -1,0 +1,22 @@
+# Test files
+test/
+*.test.js
+*.spec.js
+
+# Documentation
+docs/
+*.md
+!README.md
+
+# Git files
+.git/
+.gitignore
+
+# Example files
+examples/
+package-list.txt.example
+
+# Output files
+package-usage-report.txt
+*.log
+
